@@ -5,10 +5,12 @@ This is a Sudoku solver that I made in a few hours during a flight. I had never 
 
 ### How to use:
 
+Fill in the 9x9 matrix with appropriate values then click solve. 
+
 #### Online: 
 
 [Available here](https://samdamana.github.io/sudoku-solver/)
 
 #### Local:
 
-Simply open *index.html* in a browser, modify/fill any inputs desired, and click solve.
+Clone or download then open *index.html*. 
