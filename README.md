@@ -9,7 +9,7 @@ Fill in the 9x9 matrix with appropriate values then click solve.
 
 #### Online: 
 
-[Available here](https://samdamana.github.io/sudoku-solver/)
+[Available here](https://sambdavidson.github.io/sudoku-solver/)
 
 #### Local:
 
